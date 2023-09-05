@@ -10,3 +10,4 @@
 9. Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 10. Write a script that converts a number from base 2 to base 10.
 11. 12-combinations
+13. 13-print_float
