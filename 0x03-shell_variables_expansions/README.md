@@ -11,3 +11,4 @@
 10. Write a script that converts a number from base 2 to base 10.
 11. 12-combinations
 13. 13-print_float
+14. 100-decimal_to_hexadecimal
