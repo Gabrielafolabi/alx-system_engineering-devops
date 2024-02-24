@@ -16,11 +16,9 @@ There are no firewalls or SSL certificates for server network protection.
 + The type of DNS record `www` is in `www.foobar.com`.<br/>`www.foobar.com` uses an **A record**. This can be checked by running `dig www.foobar.com`.<br/>**Note:** the results might be different but for the infrastructure in this design, an **A** record is used.<br/>
 <i>Address Mapping record (A Record)—also known as a DNS host record, stores a hostname and its corresponding IPv4 address.</i>
 
-+ The role of the web server.<br/>The web server is a software/hardware that accepts requests via HTTP or secure HTTP (HTTPS) and responds with the content of the requested resource or an error messsage.
-
-+ The role of the application server.<br/>To install, operate and host applications and associated services for end users, IT services and organizations and facilitates the hosting and delivery of high-end consumer or business applications
-
-+ The role of the database.<br/>To maintain a collection of organized information that can easily be accessed, managed and updated
++ The role of the web server.<br/>A web server plays a central role in facilitating the delivery of web content in HTML to users over the internet. It does this through the HTTP or HTTPS protocol. 
++ The role of the application server.<br/> Manages the application's business logic and facilitating interaction between the application and various clients.
++ The role of the database.<br/>Maintains a collection of organized information that can easily be accessed, managed and updated. It stores, manages, and retrieves structured data efficiently.
 
 + What the server uses to communicate with the client (computer of the user requesting the website).<br/>Communication between the client and the server occurs over the internet network through the TCP/IP protocol suite.
 
