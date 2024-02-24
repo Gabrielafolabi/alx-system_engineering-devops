@@ -1,8 +1,7 @@
 # Simple Web Stack
 
-![Image of a simple web stack](0-simple_web_stack.jpg)
+![image](https://github.com/Gabrielafolabi/alx-system_engineering-devops/assets/35296784/66292523-39bc-47c3-9dcf-62aea5d73aba)
 
-[Visit Board](https://miro.com/app/board/uXjVOfJwct0=/)
 
 ## Description
 
